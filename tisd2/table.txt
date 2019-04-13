@@ -1,0 +1,43 @@
+4th 8 of March Str., h. 4, apt. 2; 54; 2, 65000; secondary; 1974; 2; 4; 1
+4th 8 of March Str., h. 4, apt. 3; 54; 2, 100000; secondary; 1973; 5; 4; 1
+4th 8 of March Str., h. 4, apt. 4; 54; 2, 100000; secondary; 1972; 2; 7; 0
+4th 8 of March Str., h. 5, apt. 1; 54; 2, 460000; primary; 0
+4th 8 of March Str., h. 5, apt. 2; 54; 2, 100000; secondary; 1971; 2; 4; 1
+4th 8 of March Str., h. 5, apt. 3; 54; 2, 100000; secondary; 1979; 5; 4; 1
+4th 8 of March Str., h. 6, apt. 83; 54; 2, 100000; primary; 1
+4th 8 of March Str., h. 6, apt. 1; 54; 2, 100000; primary; 0
+4th 8 of March Str., h. 6, apt. 2; 54; 2, 970000; secondary; 1978; 2; 4; 1
+4th 8 of March Str., h. 6, apt. 3; 54; 2, 100000; secondary; 1977; 5; 4; 1
+4th 8 of March Str., h. 6, apt. 4; 54; 2, 100000; secondary; 1976; 2; 7; 0
+4th 8 of March Str., h. 7, apt. 83; 54; 2, 103400; primary; 1
+4th 8 of March Str., h. 7, apt. 1; 54; 2, 100000; primary; 0
+4th 8 of March Str., h. 7, apt. 2; 54; 2, 100000; secondary; 1975; 2; 4; 1
+4th 8 of March Str., h. 7, apt. 3; 54; 2, 176540; secondary; 1974; 5; 4; 1
+4th 8 of March Str., h. 7, apt. 4; 54; 2, 100000; secondary; 1973; 2; 7; 0
+Ilyushina St., 76, h. 23, apt. 86; 283; 3; 190003; secondary; 1976; 5; 9; 1;
+4th 8 of March Str., h. 8, apt. 83; 54; 2, 100000; primary; 1
+4th 8 of March Str., h. 8, apt. 1; 54; 2, 100000; primary; 0
+4th 8 of March Str., h. 8, apt. 2; 54; 2, 100000; secondary; 1972; 2; 4; 1
+4th 8 of March Str., h. 8, apt. 3; 54; 2, 100000; secondary; 1971; 5; 4; 1
+4th 8 of March Str., h. 8, apt. 4; 54; 2, 100000; secondary; 1979; 2; 7; 0
+4th 8 of March Str., h. 9, apt. 83; 54; 2, 108340; primary; 1
+4th 8 of March Str., h. 9, apt. 1; 54; 2, 100000; primary; 0
+4th 8 of March Str., h. 9, apt. 2; 54; 2, 134700; secondary; 1978; 2; 4; 1
+4th 8 of March Str., h. 9, apt. 3; 54; 2, 100000; secondary; 1977; 5; 4; 1
+4th 8 of March Str., h. 9, apt. 4; 54; 2, 100000; secondary; 1976; 2; 7; 0
+4th 8 of March Str., h. 1, apt. 83; 54; 2, 100000; primary; 1
+4th 8 of March Str., h. 1, apt. 1; 54; 2, 103560; primary; 0
+4th 8 of March Str., h. 1, apt. 2; 54; 2, 100000; secondary; 1975; 2; 4; 1
+Lenina St., h. 88, apt. 9; 98; 3; 67000; primary; 1
+Lenina St., h. 90, apt. 9; 98; 4; 180000; primary; 1
+4th 8 of March Str., h. 1, apt. 3; 54; 2, 100000; secondary; 1974; 5; 4; 1
+4th 8 of March Str., h. 1, apt. 4; 54; 2, 100650; secondary; 1973; 2; 7; 0
+4th 8 of March Str., h. 2, apt. 83; 54; 2, 100000; primary; 1
+4th 8 of March Str., h. 2, apt. 1; 54; 2, 100300; primary; 0
+4th 8 of March Str., h. 2, apt. 2; 54; 2, 140000; secondary; 1972; 2; 4; 1
+4th 8 of March Str., h. 2, apt. 3; 54; 2, 70000; secondary; 1971; 5; 4; 1
+4th 8 of March Str., h. 2, apt. 4; 54; 2, 80000; secondary; 1970; 2; 7; 0
+4th 8 of March Str., h. 2, apt. 42; 59; 2; 90000; primary; 1
+Lenina St., h. 87, apt. 9; 98; 3; 90000; primary; 1
+Ilyushina St., 76, h. 23, apt. 87; 98; 3; 90003; secondary; 1976; 5; 9; 1;
+end
